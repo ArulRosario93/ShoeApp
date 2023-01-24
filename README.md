@@ -1,6 +1,7 @@
 # shoe_delivery_app
 
 A new Flutter project.
+A basic Nike shoe app for showcasing and to order items.
 
 ## Getting Started
 
